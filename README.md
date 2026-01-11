@@ -5,6 +5,10 @@
 This is a batch script designed to fix common MySQL startup errors in XAMPP (like "Error: MySQL shutdown unexpectedly"). This error usually happens when database files get corrupted or another program blocks the MySQL port.
 The script automates the manual process of resetting the data folder while keeping your databases intact.
 
+## **Download**
+[![Download](https://img.shields.io/badge/Download_Now-fix__mysql.bat-red?style=for-the-badge&logo=download)](https://github.com/malithonline/xampp-mysql-fixer/releases/download/fix_mysql.bat/fix_mysql.bat)
+
+
 ## **How to use**
 1. Stop MySQL in the XAMPP Control Panel.  
 2. Download the fix\_mysql.bat file.  
@@ -12,13 +16,6 @@ The script automates the manual process of resetting the data folder while keepi
 4. When prompted, type **Y** and press Enter to confirm.  
 5. Wait for the "Restoration Completed" message.  
 6. Start MySQL in the XAMPP Control Panel.
-
-## **Download**
-
-
-
-[![Download](https://img.shields.io/badge/Download_Now-fix__mysql.bat-red?style=for-the-badge&logo=download)](https://github.com/malithonline/xampp-mysql-fixer/releases/download/fix_mysql.bat/fix_mysql.bat)
-
 
 ## **How it works**
 The script performs the following steps automatically:
