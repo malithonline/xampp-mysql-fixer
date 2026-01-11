@@ -15,7 +15,10 @@ The script automates the manual process of resetting the data folder while keepi
 
 ## **Download**
 
-[![Download fix_mysql.bat](https://github.com/malithonline/xampp-mysql-fixer/blob/main/downloadbutton.jpg)](https://github.com/malithonline/xampp-mysql-fixer/releases/tag/fix_mysql.bat)
+
+
+[![Download](https://img.shields.io/badge/Download_Now-fix__mysql.bat-red?style=for-the-badge&logo=download)](https://github.com/malithonline/xampp-mysql-fixer/releases/download/fix_mysql.bat/fix_mysql.bat)
+
 
 ## **How it works**
 The script performs the following steps automatically:
